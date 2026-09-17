@@ -2,7 +2,7 @@
     "id": "taiwan-trains",
     "name": "Taiwanese Metro and TR Pack",
     "description": "A Subway Builder train pack includes various metro systems and Taiwan Railway trains.",
-    "version": "v1.0.0",
+    "version": "v1.0.1",
     "author": {
 		"name": "MaxCheng95",
 		"url": "https://github.com/MaxCheng95"
@@ -17,8 +17,8 @@
 		"subway-builder",
 		"mod"
 	],
-	"subwayBuilderVersion": ">=1.7.12",
+	"subwayBuilderVersion": ">=1.7.16",
 	"dependencies": {
-	  "subway-builder": ">=1.7.12"
+	  "subway-builder": ">=1.7.16"
 	}
 }
