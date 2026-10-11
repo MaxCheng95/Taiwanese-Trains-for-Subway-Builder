@@ -17,8 +17,8 @@
 		"subway-builder",
 		"mod"
 	],
-	"subwayBuilderVersion": ">=1.7.16",
+	"subwayBuilderVersion": ">=1.7.0",
 	"dependencies": {
-	  "subway-builder": ">=1.7.16"
+	  "subway-builder": ">=1.7.0"
 	}
 }
